@@ -23,6 +23,7 @@ class InventoryManagementSystem:
 
         # Intake form implementation...
 
+
     def open_outgoing_form(self):
         outgoing_window = tk.Toplevel(self.root)
         outgoing_window.title("Outgoing Orders")
